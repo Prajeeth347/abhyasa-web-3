@@ -87557,7 +87557,7 @@ W(){var s=t.HZ
 return new A.Rn(A.a([!0],s),A.a([!0],s),"https://schoolbox.site/orugalluback/",A.K(t.S,t.N),A.a([A.cP("7AB2B2"),A.cP("1679AB")],t.d),B.i)}}
 A.Rn.prototype={
 E(a){var s=null,r=A.c(a)
-return A.c5(A.cb(s,A.c(a).dy,!0,20,s,s,r.k2,A.p("Orugallu Junior College",s,s,s,s,A.w().$2$fontSize$fontWeight(A.d(a,s,t.w).w.a.a*0.02,B.M),s,s),s),s,B.FZ,s,s)}}
+return A.c5(A.cb(s,A.c(a).dy,!0,20,s,s,r.k2,A.p("Abhyas School",s,s,s,s,A.w().$2$fontSize$fontWeight(A.d(a,s,t.w).w.a.a*0.02,B.M),s,s),s),s,B.FZ,s,s)}}
 A.M5.prototype={
 E(a){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=null,c="1e1e1e",b=A.c(a).go
 b=A.co(new A.cd(A.Y(B.c.ao(178.5),b.gl(b)>>>16&255,b.gl(b)>>>8&255,b.gl(b)&255),B.W),B.Y,B.a4,d)
@@ -91486,7 +91486,7 @@ A.qy.prototype={
 W(){return new A.Vt(B.Cy,A.bN(null),B.i)}}
 A.Vt.prototype={
 E(a){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=null,e=t.w,d=A.N(f,A.d(a,f,e).w.a.b*0.05,f),c=A.d(a,f,e).w
-c=A.p("Orugallu Junior College",f,f,f,f,A.eM().$3$color$fontSize$fontWeight(A.c(a).dy,c.a.a*0.03,B.dn),f,f)
+c=A.p("Abhyas School",f,f,f,f,A.eM().$3$color$fontSize$fontWeight(A.c(a).dy,c.a.a*0.03,B.dn),f,f)
 s=A.N(f,A.d(a,f,e).w.a.b*0.05,f)
 r=A.d(a,f,e).w
 r=A.p("Welcome Back!",f,f,f,f,A.aYi().$3$color$fontSize$fontWeight(A.c(a).dy,r.a.a*0.03,B.m),f,f)
